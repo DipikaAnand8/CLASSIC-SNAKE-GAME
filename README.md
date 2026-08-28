@@ -113,4 +113,4 @@ python snake_game.py
 * Project Name: **Classic Snake Game**
 * Language Used: **Python**
 * Library Used: **Pygame**
-* MADE BY DIPIKA ANAND
+* BY DIPIKA ANAND
